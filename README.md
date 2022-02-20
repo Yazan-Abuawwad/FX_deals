@@ -83,7 +83,7 @@ public class Dealsdeteils {
 
 ## Authors
 
-* **yazan abuawwad** - *Java developer* - [PurpleBooth](https://github.com/Yazan-Abuawwad)
+* **yazan abuawwad** - *Java developer* - [gitHub](https://github.com/Yazan-Abuawwad)
 
  
  
